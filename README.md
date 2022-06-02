@@ -1,3 +1,10 @@
+<!-- # 최동우  
+🏠 , ST, Country 
+📬 cdwdong1@gmail.com  
+📞 010-5327-1943  
+🔗 GitHub: git  
+🔗 Notion: lnkd   -->
+
 ## 💼 경력  
 1. ### __베이비랩  (2020-08 ~ 2021-11)__   
     #### _Babbling RN앱 Android, IOS (2021-02 ~ 2021-11)_  
@@ -16,6 +23,7 @@
     #### _H-Innovation 워크시트 멘토링 웹 (2020-10 ~ 2020-12)_  
     - 기존의 php와 html을 사용하는 개발방식 대신 firebase와 react로 개발하여 개발시간을 2배 단축   
 
+
 2. ### __카이미디어 (인턴)  (2019-09 ~ 2020-01)__  
     #### _안드로이드 Camera2 API를 활용한 필터 및 얼굴인식 카메라 (2019-09 ~ 2019-12)_  
     - 사진을 찍어 필터를 적용하는 카메라 앱 개발
@@ -28,8 +36,15 @@
 - 한국교원대 연합SW프로젝트 발표회 우수상 수상 (2018-11)  
 - 충북대학교 연합SW동아리 경진대회 장려상 수상 (2018-11)
 
-<!-- ### Hi there 👋 -->
+## 📚 학력  
+- 배재대학교 2014-03 ~ 2020-02  
+컴퓨터공학 학사 졸업  
+평균학점 4.13 / 4.5  
 
+
+
+
+<!-- ### Hi there 👋 -->
 <!--
 **cdwdong/cdwdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
